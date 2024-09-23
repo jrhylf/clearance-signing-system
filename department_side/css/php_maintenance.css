@@ -1,0 +1,43 @@
+/* Reset default list styles */
+.mntc_nav__menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: 3px solid red;
+}
+
+/* Style each list item as a button */
+.list {
+    display: block; /* Display list items as blocks to stack vertically on smaller screens */
+    margin-bottom: 10px; /* Adjust spacing between buttons as needed */
+    display: flex;
+    justify-content: center;
+}
+
+/* Style the anchor tags within the list items */
+.nav_option {
+    display: block;
+    width: 94%; /* Make buttons take up full width of their container */
+    padding: 10px 0 10px 0;
+    text-decoration: none;
+    color: #000; /* Set text color */
+    background-color: #fff; /* Set background color */
+    border: 1px solid #ccc; /* Add a border for a button-like appearance */
+    border-radius: 5px; /* Optional: Add rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+/* Hover effect for the buttons */
+.nav_option:hover {
+    background-color: #0072bc; /* Change background color on hover */
+    color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a slightly larger box shadow on hover */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .list {
+        margin-bottom: 5px; /* Adjust spacing between buttons for smaller screens */
+    }
+}

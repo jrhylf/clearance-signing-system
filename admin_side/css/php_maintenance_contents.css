@@ -1,0 +1,476 @@
+button,
+select {
+    cursor: pointer;
+}
+
+/* limit td width using ellipsis (...) */
+td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+}
+
+/* department maintenance */
+.departments_box,
+.admin_box,
+.announcement_box {
+    display: flex;
+    width: 100%;
+}
+
+.form_column {
+    width: 100%;
+}
+
+.column_announcement {
+    width: 100%;
+    max-width: 40%;
+    /* border: solid red 4px; */
+}
+
+.column_admin {
+    width: 100%;
+    max-width: 95%;
+    /* border: solid red 4px; */
+}
+
+.column {
+    justify-content: space-between;
+    gap: 20px;
+    /* border: solid red 4px; */
+}
+
+.course_section_container {
+    display: flex;
+    width: 100%;
+}
+
+.optional {
+    color: #808080;
+    font-style: italic;
+    font-size: x-small;
+}
+
+/* TODO: magkatabi yung batch upload input at upload button dapat */
+form {
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.box,
+.card {
+    display: inline;
+    text-align: start;
+    width: 100%;
+    max-width: 95%;
+    /* TODO: RESPONSIVE BOX AND CARD */
+    height: auto;
+    margin: 10px;
+    padding: 10px 20px 20px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card_course,
+.card_section {
+    display: inline;
+    text-align: start;
+    width: 100%;
+    max-width: 470px;
+    height: auto;
+    margin: 10px;
+    padding: 10px 20px 20px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.table_container {
+    overflow-x: auto;
+    width: 100%;
+    /* TODO: RESPONSIVE TABLE WIDTH */
+    /* ! HINDI NAGFIFIT SA PARENT CARD. SUMOSOBRA SA WIDTH NG MAIN CONTENT */
+    /* max-width: 79rem; */
+    overflow-y: auto;
+    max-height: 600px;
+}
+
+/* Customize the scrollbar */
+.table_container::-webkit-scrollbar {
+    width: 8px;
+    /* Width of the scrollbar */
+    height: 8px;
+    /* Height of the scrollbar */
+}
+
+.table_container::-webkit-scrollbar-thumb {
+    background-color: #b7b7b7;
+    /* Color of the scrollbar thumb */
+    border-radius: 100px;
+    /* Rounded corners of the scrollbar thumb */
+}
+
+.table_container::-webkit-scrollbar-thumb:hover {
+    background-color: #555555;
+    /* Color of the thumb on hover */
+}
+
+.table_container::-webkit-scrollbar-track {
+    border-radius: 100px;
+    background-color: #f1f1f1;
+    /* Color of the scrollbar track */
+}
+
+#add_department_modal,
+#add_users_modal,
+#add_student_modal,
+#add_course_modal,
+#add_section_modal,
+#add_announcement_modal,
+#section_add_btn,
+#add_admin_modal {
+    float: right;
+    margin-top: 10px;
+}
+
+.flat-table {
+    width: 100%;
+    min-width: max-content;
+    border-collapse: collapse;
+}
+
+.flat-table th,
+.flat-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+.flat-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+.flat-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.flat-table .edit-btn {
+    padding: 6px 12px;
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.delete_btn {
+    padding: 6px 12px;
+    background-color: #c41414;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.flat-table .edit-btn:hover {
+    background-color: #2dd636;
+}
+
+.flat-table .delete_btn:hover {
+    background-color: #ff1717;
+}
+
+.select_file {
+    width: 100%;
+    max-width: 85%;
+    padding: 3px;
+    border: solid 2px lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* .upload_file_btn {
+    float: right;
+} */
+
+.dp_name {
+    width: 100%;
+    max-width: 90%;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 2px lightgray;
+}
+
+.dp_dropdown {
+    width: 100%;
+    max-width: 97%;
+    padding: 4px;
+    border-radius: 5px;
+    border: solid 2px lightgray;
+}
+
+.announcement_dropdown,
+#start_date,
+#end_date,
+#start_time,
+#end_time,
+#edit_start_date,
+#edit_end_date,
+#edit_start_time,
+#edit_end_time {
+    width: 100%;
+    max-width: 90%;
+    padding: 4px;
+    border-radius: 5px;
+    border: solid 2px lightgray;
+}
+
+.thumbnail {
+    width: 95.8%;
+    margin-left: 8px;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 2px lightgray;
+    cursor: pointer;
+}
+
+#title_enter {
+    width: 97.4%;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 2px lightgray;
+}
+
+#title_margin_left {
+    margin-left: 8px;
+}
+
+#title_desc {
+    /* height: 200px; */
+    cursor: text;
+}
+
+textarea {
+    min-width: 95.8%;
+    max-width: 95.8%;
+    min-height: 20em;
+    max-height: 50em;
+}
+
+.char_left_margin_left {
+    margin-left: 8px;
+}
+
+.cc_dropdown,
+.year_dropdown,
+.sem_dropdown {
+    max-width: 29.5rem;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 2px lightgray;
+}
+
+.course_desc,
+.course_code,
+.section_num {
+    max-width: 29.5rem;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: solid 2px lightgray;
+}
+
+.btn {
+    width: 155px;
+    max-width: 9.6875;
+    padding: 5px;
+    color: white;
+    background-color: #0072bc;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0099ff;
+}
+
+/* .acad_info .btn {
+    float: right;
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+    color: white;
+    background-color: #0072bc;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+} */
+
+.btn_add_coursec,
+.btn_update_sem,
+.btn_update_sy {
+    max-width: 29.5rem;
+    width: 100%;
+    height: 30px;
+    padding: 5px;
+    color: white;
+    background-color: #0072bc;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn_add_coursec:hover,
+.btn_add_sem:hover,
+.btn_update_sem:hover,
+.btn_update_sy:hover {
+    background-color: #0099ff;
+}
+
+.btn_add_sem,
+.btn_update_sem,
+.btn_update_sy {
+    margin-top: 6px;
+}
+
+#btn_add_user,
+#btn_clear_user,
+#btn_add_student,
+#btn_clear_student {
+    width: 100%;
+}
+
+#btn_clear_user,
+#btn_clear_dept,
+#btn_clear_student,
+#btn_clear_course,
+#btn_clear_section,
+#btn_clear_announcement,
+#btn_cancel,
+#btn_clear_admin {
+    background-color: #878787;
+}
+
+#btn_clear_user:hover,
+#btn_clear_dept:hover,
+#btn_clear_student:hover,
+#btn_clear_course:hover,
+#btn_clear_section:hover,
+#btn_clear_announcement:hover,
+#btn_cancel:hover,
+#btn_clear_admin:hover {
+    color: #3e3e3e;
+    background-color: #bebebe;
+}
+
+#btn_add_student,
+#btn_clear_student {
+    height: 30px;
+    margin-top: 6px;
+}
+
+/* maintenance page */
+.maintenance_modules {
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    column-gap: 22px;
+}
+
+/* modal form */
+/* Styles for the modal container */
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.courseModal,
+.sectionModal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Styles for the modal content */
+.modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 10px;
+    border: 1px solid #888;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 600px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.admin-modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 10px;
+    border: 1px solid #888;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 20%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.course-modal-content,
+.section-modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 10px;
+    border: 1px solid #888;
+    border-radius: 10px;
+    /* width: max-content; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+}
+
+/* Styles for the close button */
+.close,
+.close_course,
+.close_section,
+.closeEdit {
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.close:hover,
+.close_course:hover,
+.close_section:hover,
+.closeEdit:hover {
+    color: #f00;
+    cursor: pointer;
+}
+
+.search {
+    float: right;
+    border: solid 2px gray;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 9px;
+    margin-right: 9px;
+}

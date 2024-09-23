@@ -1,0 +1,120 @@
+2024-01-09 13:22:00: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\CAPSTONE_CSS\student_side\php_page_contents\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2024-01-12 19:25:36: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/u965085537/domains/sticaclearance.com/public_html/php_page_contents/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
